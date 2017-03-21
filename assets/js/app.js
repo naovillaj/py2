@@ -50,11 +50,6 @@ window.onclick = function(event) {
 	}
 }
 
-
-
-
-
-
 function saludar(){
 
 	var saludo = document.getElementById("saludo");
@@ -70,11 +65,6 @@ else{
 }
 	
 } saludar();
-
-
-
-
-
 
 
 document.getElementById("enviar1").addEventListener("click", quiz1);
